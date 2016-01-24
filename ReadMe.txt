@@ -27,3 +27,10 @@ Quantize buttons are not assigned (yet?). Slice, Erase, Store, Phrase are not as
 I would like to thank M. Piraux, who came up with the updated DC-1 script for 9.5! https://github.com/mpiraux/CMD-DC-1-Ableton-9-Control-Surface-Script
 
 Enjoy! P.-A. Vallin
+
+Known bugs:
+ - The encoders rings don't light up when switching FX banks
+ 
+ TODO :
+  - Find a way to make the remaining encoders usable
+  - Quantization

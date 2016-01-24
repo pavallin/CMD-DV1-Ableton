@@ -2,7 +2,7 @@ DV1_For_Ableton
 
 A basic Script for the Behringer DV-1 on Ableton 9.5.
 
-It is mostly based on the DC-1 script and is far from optimized.
+It is mostly based on the DC-1 script and is far from optimized. It contains several unused .py files and lots of commented code from the DC-1 script; I chose to keep everything, in order to make things more easily improved.
 
 This is a Work In Progress, mostly experimental! Be warned :)
 
